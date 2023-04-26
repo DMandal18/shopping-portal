@@ -31,7 +31,7 @@ pipeline{
     
     post{
         always{
-            echo This is pipeline for shopping portal app...'
+            echo 'This is pipeline for shopping portal app...'
         }
         
     }
